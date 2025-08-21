@@ -3,3 +3,40 @@
 Pull the latest updates from GitHub:
 
 git pull origin main
+Version control, also known as source control or revision control, is a system that tracks and manages changes to files, primarily source code in software development. It allows teams to collaborate on projects by providing a way to track modifications, revert to previous versions, and manage different versions of files. 
+Here's a more detailed explanation:
+Tracking Changes:
+Version control systems record every change made to files, creating a history of modifications. 
+Reverting to Previous Versions:
+If a mistake is made or a previous version is needed, version control allows you to easily revert to an earlier state of the file or project. 
+Collaboration:
+Version control systems facilitate collaboration by allowing multiple developers to work on the same project simultaneously, merging their changes and resolving conflicts. 
+Types of Version Control:
+There are two main types:
+Centralized: A single central repository stores all the versions, and developers work on copies of the files. 
+Distributed: Each developer has a complete copy of the repository, allowing for offline work and easier collaboration. 
+Benefits:
+Version control is crucial for: 
+Protecting source code: Preventing accidental loss or corruption of valuable code. 
+Enabling collaboration: Allowing teams to work together efficiently and effectively. 
+Streamlining development: Making it easier to track changes and manage different versions. 
+Improving code quality: By enabling developers to easily review and revert changes. 
+Increasing development speed: By facilitating efficient collaboration and reducing development time. 
+Examples of Version Control Systems:
+Git, Subversion (SVN), and Mercurial are popular examples of version control systems. 
+What is version control | Atlassian Git Tutorial
+Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control ...
+
+Atlassian
+
+Version control - Wikipedia
+Version control (also known as revision control, source control, and source code management) is the software engineering practice ...
+
+Wikipedia, the free encyclopedia
+
+Version Control Systems - GeeksforGeeks
+26 Jul 2025 — CVS is one of the earliest and most influential centralized version control systems. It was widely adopted in the late ...
+
+GeeksforGeeks
+
+Show all
