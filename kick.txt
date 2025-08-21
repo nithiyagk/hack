@@ -1,0 +1,5 @@
+✅ If it shows * main, you are on the right branch.
+
+Pull the latest updates from GitHub:
+
+git pull origin main
